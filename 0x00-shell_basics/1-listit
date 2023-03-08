@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "contents of the current directory:"
+ls
