@@ -1,2 +1,2 @@
-echo "contents of the current directory:"
+#!bin/bash
 ls
