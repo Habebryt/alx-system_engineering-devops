@@ -1,2 +1,2 @@
 #!/bin/bash
-$EUID
+whoami
