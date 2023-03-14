@@ -1,6 +1,2 @@
 #!/bin/bash
-lines=()
-while read -r line; do
-    lines+=("$line")
-done < iacta
-echo "${lines[2]}"
+head -n 3 iacta | tail -n 1
